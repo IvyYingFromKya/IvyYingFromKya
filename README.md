@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @IvyYingFromKya but you can just call me Ivy
-- 👀 I’m interested in Valorant, Minecraft, and sleeping
-- 🌱 I’m currently learning python and trying to learn more later!
+- 👀 I’m interested in Valorant, Minecraft, and sleeping.
+- 🌱 I’m currently learning python and trying to learn more languages later
 - 💞️ I'm still trying to learn the software right now nothing really to collaberate.
-- 📫 How to reach me @ivyscrispycrunchycharredballs on instagram (weird username I know) 
+- 📫 How to reach me @ivyscrispycrunchycharredballs on instagram
+
 
 <!---
 IvyYingFromKya/IvyYingFromKya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
