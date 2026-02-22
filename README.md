@@ -2,7 +2,7 @@
 - 👀 I’m interested in Valorant, Minecraft, and sleeping.
 - 🌱 I’m currently learning python and trying to learn more languages later
 - 💞️ I'm still trying to learn the software right now nothing really to collaberate.
-- 📫 How to reach me @ivyscrispycrunchycharredballs on instagram
+- 📫 How to reach me @kyakyarat on instagram
 
 
 <!---
