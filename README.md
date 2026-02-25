@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IvyYingFromKya but you can just call me Ivy
+- 👋 Hi, I’m @IvyFromKya but you can just call me Ivy
 - 👀 I’m interested in Valorant, Minecraft, and sleeping.
 - 🌱 I’m currently learning python and trying to learn more languages later
 - 💞️ I'm still trying to learn the software right now nothing really to collaberate.
